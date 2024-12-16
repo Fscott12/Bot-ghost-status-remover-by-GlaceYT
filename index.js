@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["👀 Watching Over Stockton Secondary School"];
-const statusTypes = [ 'dnd',];
+const statusTypes = ['dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
